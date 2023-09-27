@@ -13,4 +13,4 @@ def test_divide():
     assert divide(10,5) == 2
 
 def test_exp():
-    assert exp(2,3) == 8
+    assert exp(4,3) == 64
